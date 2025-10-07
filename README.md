@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 
 ## 🚀 Featured Projects
 
-- [Idiomoji](https://github.com/amanuela97/Idiomoji) — Express yourself with language-powered emojis.
 - [Talent](https://github.com/amanuela97/Talent) — Empowering talent discovery and management.
 - [CaffeineTracker](https://github.com/Dmitrii-Weaver/CaffeineTracker) — Monitor your caffeine intake for a healthier lifestyle.
 - [Resume-AI](https://github.com/amanuela97/Resume-AI) — AI-powered resume builder to boost your career.
